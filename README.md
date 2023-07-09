@@ -3,11 +3,11 @@
 
 ### 📊 Stats
 
-<a href="https://suranjana-maity.rf.gd/">
+<a href="http://suranjana-maity.rf.gd/">
 <img src="https://github-readme-stats.vercel.app/api?username=suranjana-maity&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Suranjana's github stats" width="48%" >
 </a>
 
-<a href="https://suranjana-maity.rf.gd/">
+<a href="http://suranjana-maity.rf.gd/">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suranjana-maity&theme=github_dark&hide_border=true" alt="shakil's github streak" width="48%" >
 </a>
 
@@ -98,7 +98,7 @@
 
 ### 🔝 Most used languages
 
-<a href="https://suranjana-maity.rf.gd/">
+<a href="http://suranjana-maity.rf.gd/">
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suranjana-maity&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
 </a>
 
@@ -109,7 +109,7 @@
 
 ### 🤝 Connect with me:
 
-- 🌐 Website: [suranjana-maity.rf.gd](https://suranjana-maity.rf.gd/)
+- 🌐 Website: [suranjana-maity.rf.gd](http://suranjana-maity.rf.gd/)
 - 📧 Email: suranjanamaity609@gmail.com
 - 💼 LinkedIn: [Suranjana Maity](www.linkedin.com/in/suranjana-maity)
 - 📸 Instagram: [na.pathano.chithi](https://www.instagram.com/na.pathano.chithi/)
