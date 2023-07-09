@@ -1,4 +1,4 @@
-<a href="http://suranjana-maity.rf.gd/"><img src="https://github.com/learnershakil/learnershakil/blob/main/banner.png" alt="banner" style="max-width: 100%;width: 1000px; center;" border="0"></a><br/>
+<a href="http://suranjana-maity.rf.gd/"><img src="https://github.com/suranjana-maity/suranjana-maity/blob/main/banner.png" alt="banner" style="max-width: 100%;width: 1000px; center;" border="0"></a><br/>
 
 <h1 align="center">Hi, I'm Suranjana Maity</h1>
 <h3 align="center">🚀 Professional Front-End Developer 🌟 Freelancer Developer</h3>
